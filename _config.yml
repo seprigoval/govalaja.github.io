@@ -1,5 +1,5 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
+title:            Website Sepri Goval
+description:      Berita Seputar Kuliah Ku
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -7,14 +7,14 @@ url:              https://mmistakes.github.io/hpstr-jekyll-theme
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
+  name:           Sepri Goval
+  avatar:         avatar.JPG
+  bio:            "Preman Molek"
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:        sepri_goval
   facebook:       
-  github:         mmistakes
+  github:         seprigoval
   stackexchange:  
   linkedin:       
   instagram:        
